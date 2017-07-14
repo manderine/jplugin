@@ -1,2 +1,0 @@
-# jplugin
-android plugin
